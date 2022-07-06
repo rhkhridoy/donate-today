@@ -41,7 +41,7 @@
     align-items: center;
     gap: 10px;
     height: 100vh;
-    background-image: url("images/donation12.png");
+    background-image: url("images/donation7.jpg");
   }
   .hero-section h1 {
     font-weight: 700;
@@ -50,10 +50,10 @@
     margin: 0 auto;
     text-align: center;
     width: 826px;
-    color: #1e1d21;
+    color: #ffffff;
   }
   .hero-section p {
-    color: hsl(95, 43%, 11%);
+    color: hsl(0, 0%, 100%);
     text-align: center;
   }
   
